@@ -10,8 +10,11 @@ There is a generate button once Clicked will generate a secure passord for user.
 User can choose and include special character, symboles, numbers, upperCase letters and lowerCase lettes as usually the pre-requisite of a secure password and Javascript will render the result as desired.
 Also, there are checkboxes to checked or un checked to include or exclude some characters for instance numeric and symbols etc. To cap it all, the app UI looks elegant and the password generator works to generate a strong password for users. 
 
-B.  The URL of the deployed application: 
-The URL of the GitHub repository: 
+B.  
+
+The URL of the deployed application: https://mmtariqk.github.io/password-generator/
+The URL of the GitHub repository: https://github.com/mmtariqk/password-generator
+
 
 C.  Screenshots of App:
 
