@@ -12,9 +12,8 @@ Also, there are checkboxes to checked or un checked to include or exclude some c
 
 B.  
 
-The URL of the deployed application: https://mmtariqk.github.io/password-generator/
-The URL of the GitHub repository: https://github.com/mmtariqk/password-generator
-
+The URL of the deployed application: https://mmtariqk.github.io/password-generator-app/
+The URL of the GitHub repository: https://github.com/mmtariqk/password-generator-app
 
 C.  Screenshots of App:
 
